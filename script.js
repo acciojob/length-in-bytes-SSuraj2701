@@ -1,5 +1,10 @@
 const byteSize = (str) => {
   // write your code here
+	 function bytesize(str) {
+	 	return new blod([str]).size;
+	 }
+		
+	}
 };
 
 // Do not change the code below
